@@ -1,0 +1,17 @@
+{
+  "name" : "App::AnyBar",
+  "source-url" : "git://github.com/shoichikaji/perl6-anybar.git",
+  "perl" : "6.c",
+  "resources" : [ ],
+  "build-depends" : [ ],
+  "provides" : {
+    "App::AnyBar" : "lib/App/AnyBar.pm6"
+  },
+  "depends" : [ ],
+  "description" : "perl6 client for AnyBar",
+  "test-depends" : [ ],
+  "version" : "*",
+  "authors" : [
+    "Shoichi Kaji"
+  ]
+}
